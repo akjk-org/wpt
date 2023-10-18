@@ -7,3 +7,4 @@ pillow==8.4.0
 requests==2.28.2
 six==1.16.0
 urllib3[secure]==1.26.15
+urllib3>=1.26.18 # not directly required, pinned by Snyk to avoid a vulnerability
