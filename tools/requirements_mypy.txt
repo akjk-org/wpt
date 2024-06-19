@@ -12,3 +12,4 @@ types-six==1.16.21.20240425
 types-ujson==5.9.0.0
 types-urllib3==1.26.25.14
 typing_extensions==4.7.1
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
