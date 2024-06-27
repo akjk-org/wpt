@@ -5,3 +5,4 @@ sphinx-removed-in>=0.2.0
 sphinx>=3.1,<4
 sphinxcontrib-trio
 sphinxcontrib-svg2pdfconverter
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
