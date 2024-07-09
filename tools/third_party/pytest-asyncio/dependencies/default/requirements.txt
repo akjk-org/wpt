@@ -2,3 +2,4 @@
 # when changing runtime dependencies
 pytest >= 6.1.0
 typing-extensions >= 3.7.2; python_version < "3.8"
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
