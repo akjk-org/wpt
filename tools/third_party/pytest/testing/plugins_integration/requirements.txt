@@ -13,3 +13,4 @@ pytest-trio==0.7.0
 pytest-twisted==1.13.4
 twisted==21.7.0
 pytest-xvfb==2.0.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
